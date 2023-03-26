@@ -12,7 +12,7 @@
 ### Инструкция по запуску проекта:
 1. Клонировать репозиторий:
 ```
-git clone https://github.com/klikyandex/foodgram-project-react
+git clone https://github.com/klikovskiy/foodgram-project-react
 ```
 2. Перейдите в папку проекта
 ```
